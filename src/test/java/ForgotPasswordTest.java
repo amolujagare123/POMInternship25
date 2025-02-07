@@ -19,5 +19,7 @@ public class ForgotPasswordTest {
         forgotPasswod.setTxtEmail("amol@gmail.com");
         forgotPasswod.btnReset();
 
+
+
     }
 }
